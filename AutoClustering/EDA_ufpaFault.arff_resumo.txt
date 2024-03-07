@@ -1,0 +1,9 @@
+Algoritmo: EDA FULL 
+Lendo 'ufpaFault.arff' e executando a particao 0 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 8
+Reading Instances - {}
+DenseAreas - {CLIQUE_THRESHOLD=0.033333424, CLIQUE_SLICES=35.88889}
+ClusterByPartition - {CLIQUE_THRESHOLD=0.033333424, CLIQUE_SLICES=35.88889}
+Acurária do indivíduo: 97.53839241944931
+

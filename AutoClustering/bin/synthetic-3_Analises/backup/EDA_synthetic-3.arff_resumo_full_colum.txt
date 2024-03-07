@@ -1,0 +1,353 @@
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 0 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     23(min) e 49 (s)
+Tempo de processamento da rodada: 1429(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 1 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=20.666666, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=4.111111}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=4.111111}
+Acurária do indivíduo: 99.99953612047227
+Tempo de processamento da rodada:     18(min) e 59 (s)
+Tempo de processamento da rodada: 1139(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 2 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=8.333333, DHC_SIGMA=13.444445}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=8.333333, DHC_SIGMA=13.444445}
+Acurária do indivíduo: 99.98653608565651
+Tempo de processamento da rodada:     24(min) e  2 (s)
+Tempo de processamento da rodada: 1442(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 3 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     19(min) e 52 (s)
+Tempo de processamento da rodada: 1192(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 4 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=20.666666, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.99953612047227
+Tempo de processamento da rodada:     22(min) e 54 (s)
+Tempo de processamento da rodada: 1374(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 5 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 6
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=48.888885, DHC_MINPTS=6.6666665, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=48.888885, DHC_MINPTS=6.6666665, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.92456326694385
+Tempo de processamento da rodada:     20(min) e 12 (s)
+Tempo de processamento da rodada: 1212(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 6 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     26(min) e 40 (s)
+Tempo de processamento da rodada: 1600(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 7 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=27.222221, DENCLUE_EPSILON=13.366667}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.99642526878894
+Tempo de processamento da rodada:     17(min) e 52 (s)
+Tempo de processamento da rodada: 1072(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 8 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=60.0, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=8.333333, DHC_SIGMA=13.444445}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=8.333333, DHC_SIGMA=13.444445}
+Acurária do indivíduo: 99.95866058115237
+Tempo de processamento da rodada:     19(min) e 31 (s)
+Tempo de processamento da rodada: 1171(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 9 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=53.444443, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=7.2222223}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=7.2222223}
+Acurária do indivíduo: 99.96490761976735
+Tempo de processamento da rodada:     25(min) e 26 (s)
+Tempo de processamento da rodada: 1526(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 10 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     24(min) e 36 (s)
+Tempo de processamento da rodada: 1476(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 11 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=60.0, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=20.0, DHC_SIGMA=11.888889}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=20.0, DHC_SIGMA=11.888889}
+Acurária do indivíduo: 99.95866058115237
+Tempo de processamento da rodada:     21(min) e  1 (s)
+Tempo de processamento da rodada: 1261(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 12 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=20.666666, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=5.666667}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=5.666667}
+Acurária do indivíduo: 99.99953612047227
+Tempo de processamento da rodada:     22(min) e 36 (s)
+Tempo de processamento da rodada: 1356(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 13 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=40.333332, DENCLUE_EPSILON=17.788889}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.97870644942533
+Tempo de processamento da rodada:     22(min) e  5 (s)
+Tempo de processamento da rodada: 1325(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 14 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=40.333332, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=10.0, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=10.0, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.97870644942533
+Tempo de processamento da rodada:     20(min) e 41 (s)
+Tempo de processamento da rodada: 1241(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 15 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=40.333332, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=13.444445}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=13.444445}
+Acurária do indivíduo: 99.97870644942533
+Tempo de processamento da rodada:     21(min) e  1 (s)
+Tempo de processamento da rodada: 1261(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 16 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 6
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=54.444443, DHC_MINPTS=13.333333, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=54.444443, DHC_MINPTS=13.333333, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.92456326694385
+Tempo de processamento da rodada:     20(min) e  7 (s)
+Tempo de processamento da rodada: 1207(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 17 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=46.888885, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.97150312243164
+Tempo de processamento da rodada:     23(min) e 15 (s)
+Tempo de processamento da rodada: 1395(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 18 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=27.222221, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=7.2222223}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=18.333332, DHC_SIGMA=7.2222223}
+Acurária do indivíduo: 99.99642526878894
+Tempo de processamento da rodada:     20(min) e 20 (s)
+Tempo de processamento da rodada: 1220(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 19 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=20.666666, DENCLUE_EPSILON=17.788889}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=11.666666, DHC_SIGMA=5.666667}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=11.666666, DHC_SIGMA=5.666667}
+Acurária do indivíduo: 99.99953612047227
+Tempo de processamento da rodada:     18(min) e 35 (s)
+Tempo de processamento da rodada: 1115(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 20 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 6
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=37.77778, DHC_MINPTS=15.0, DHC_SIGMA=10.333334}
+DensityTree - {DHC_THRESHOLD=37.77778, DHC_MINPTS=15.0, DHC_SIGMA=10.333334}
+Acurária do indivíduo: 99.92457343487146
+Tempo de processamento da rodada:     17(min) e 45 (s)
+Tempo de processamento da rodada: 1065(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 21 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=40.333332, DENCLUE_EPSILON=17.788889}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.97870644942533
+Tempo de processamento da rodada:     23(min) e 41 (s)
+Tempo de processamento da rodada: 1421(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 22 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=60.0, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=20.0, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=20.0, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.95866058115237
+Tempo de processamento da rodada:     16(min) e 17 (s)
+Tempo de processamento da rodada: 977(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 23 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     19(min) e  3 (s)
+Tempo de processamento da rodada: 1143(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 24 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=60.0, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=13.444445}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=13.444445}
+Acurária do indivíduo: 99.95866058115237
+Tempo de processamento da rodada:     20(min) e 39 (s)
+Tempo de processamento da rodada: 1239(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 25 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=15.0, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     17(min) e 36 (s)
+Tempo de processamento da rodada: 1056(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 26 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=13.333333, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.92657274071996
+Tempo de processamento da rodada:     20(min) e  5 (s)
+Tempo de processamento da rodada: 1205(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 27 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=20.666666, DENCLUE_EPSILON=13.366667}
+AttractionTree - {DHC_THRESHOLD=54.444443, DHC_MINPTS=20.0, DHC_SIGMA=15.0}
+DensityTree - {DHC_THRESHOLD=54.444443, DHC_MINPTS=20.0, DHC_SIGMA=15.0}
+Acurária do indivíduo: 99.97302612854475
+Tempo de processamento da rodada:     20(min) e 16 (s)
+Tempo de processamento da rodada: 1216(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 28 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=40.333332, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=5.666667}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=6.6666665, DHC_SIGMA=5.666667}
+Acurária do indivíduo: 99.97870644942533
+Tempo de processamento da rodada:     18(min) e 28 (s)
+Tempo de processamento da rodada: 1108(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-3.arff' e executando a particao 29 na maquina DESKTOP-9B5M20M.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=20.0}
+AttractionTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=2.5555556}
+DensityTree - {DHC_THRESHOLD=60.0, DHC_MINPTS=16.666666, DHC_SIGMA=2.5555556}
+Acurária do indivíduo: 99.98653608565651
+Tempo de processamento da rodada:     20(min) e  6 (s)
+Tempo de processamento da rodada: 1206(s)
+
+
+Tempo total de processamento:    627(min) e 43
+Tempo total de processamento: 37663(s)

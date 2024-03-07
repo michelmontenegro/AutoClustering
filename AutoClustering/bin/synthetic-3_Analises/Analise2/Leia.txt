@@ -1,0 +1,1 @@
+Usei um sistema de rankeamento pra definir quais colunas tem mais ganha de informação, as que tem menos ganho (0.3 pra baixo eu removi)

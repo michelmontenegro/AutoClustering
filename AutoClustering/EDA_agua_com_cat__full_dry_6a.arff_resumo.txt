@@ -1,0 +1,300 @@
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 0 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=10.333334, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=10.333334, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 1 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=11.888889, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=11.888889, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 2 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=10.333334, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=10.333334, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 3 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 4 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 5 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 6 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 7 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 8 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 9 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 10 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=8.777778, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=8.777778, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 11 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=11.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=11.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 12 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_SIGMA=5.666667, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=5.666667, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 13 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=11.888889, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=11.888889, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 14 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 15 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_SIGMA=11.888889, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=11.888889, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 16 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=6.733333}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=10.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 17 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 18 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=5.666667, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=5.666667, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 19 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_SIGMA=13.444445, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=13.444445, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 20 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 21 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 22 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 23 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_SIGMA=8.777778, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=8.777778, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 24 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=8.944445}
+AttractionTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=7.2222223, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 25 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=5.666667, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=5.666667, DHC_MINPTS=20.0, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 26 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 27 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=4.522222}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=16.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 28 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=11.155556}
+AttractionTree - {DHC_SIGMA=15.0, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=15.0, DHC_MINPTS=18.333332, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+
+Algoritmo: EDA FULL 
+Lendo 'agua_com_cat__full_dry_6a.arff' e executando a particao 29 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+ASH - {DENCLUE_SIGMA=33.77778, DENCLUE_EPSILON=2.311111}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=8.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.42597246512773
+

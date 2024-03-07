@@ -1,0 +1,2 @@
+Lendo 'processed.cleveland.arff' e executando a particao 0 na maquina PPGCC-PC01. 
+Melhor fitness das 20 gerações: 34.549.

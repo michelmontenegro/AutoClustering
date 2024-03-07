@@ -1,0 +1,5 @@
+30 rodadas
+10 gerações
+20 individuos
+
+(6.000 individuos testados)

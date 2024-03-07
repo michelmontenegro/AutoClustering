@@ -1,0 +1,333 @@
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 0 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.9999999974321
+Tempo de processamento da rodada:     35(min) e 42 (s)
+Tempo de processamento da rodada: 2142(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 1 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 8
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=32.22222}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=32.22222}
+Acurária do indivíduo: 99.99999963968187
+Tempo de processamento da rodada:     34(min) e 19 (s)
+Tempo de processamento da rodada: 2059(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 2 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 5
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=43.333332}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=43.333332}
+Acurária do indivíduo: 99.9999999913783
+Tempo de processamento da rodada:     35(min) e  9 (s)
+Tempo de processamento da rodada: 2109(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 3 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.99999912597359
+Tempo de processamento da rodada:     30(min) e 50 (s)
+Tempo de processamento da rodada: 1850(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 4 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999999131957
+Tempo de processamento da rodada:     36(min) e  8 (s)
+Tempo de processamento da rodada: 2168(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 5 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=8.333333, DHC_THRESHOLD=54.444443}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=8.333333, DHC_THRESHOLD=54.444443}
+Acurária do indivíduo: 99.99999917020055
+Tempo de processamento da rodada:     36(min) e 27 (s)
+Tempo de processamento da rodada: 2187(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 6 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=43.333332}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=6.6666665, DHC_THRESHOLD=43.333332}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     35(min) e 16 (s)
+Tempo de processamento da rodada: 2116(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 7 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=54.444443}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=54.444443}
+Acurária do indivíduo: 99.99999999775773
+Tempo de processamento da rodada:     36(min) e 14 (s)
+Tempo de processamento da rodada: 2174(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 8 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999999076917
+Tempo de processamento da rodada:     34(min) e 43 (s)
+Tempo de processamento da rodada: 2083(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 9 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.99999903775668
+Tempo de processamento da rodada:     33(min) e  9 (s)
+Tempo de processamento da rodada: 1989(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 10 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=11.666666, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=2.5555556, DHC_MINPTS=11.666666, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     38(min) e  2 (s)
+Tempo de processamento da rodada: 2282(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 11 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=18.333332, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     32(min) e 47 (s)
+Tempo de processamento da rodada: 1967(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 12 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999923999574
+Tempo de processamento da rodada:     31(min) e  0 (s)
+Tempo de processamento da rodada: 1860(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 13 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=43.333332}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=43.333332}
+Acurária do indivíduo: 99.99999999811726
+Tempo de processamento da rodada:     37(min) e 45 (s)
+Tempo de processamento da rodada: 2265(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 14 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999938663163
+Tempo de processamento da rodada:     34(min) e 15 (s)
+Tempo de processamento da rodada: 2055(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 15 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 6
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=37.77778}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=37.77778}
+Acurária do indivíduo: 99.99999999260639
+Tempo de processamento da rodada:     35(min) e 17 (s)
+Tempo de processamento da rodada: 2117(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 16 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999999768154
+Tempo de processamento da rodada:     33(min) e 31 (s)
+Tempo de processamento da rodada: 2011(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 17 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=15.0, DHC_THRESHOLD=54.444443}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=15.0, DHC_THRESHOLD=54.444443}
+Acurária do indivíduo: 99.99999999772776
+Tempo de processamento da rodada:     37(min) e 25 (s)
+Tempo de processamento da rodada: 2245(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 18 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999914442648
+Tempo de processamento da rodada:     33(min) e 46 (s)
+Tempo de processamento da rodada: 2026(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 19 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 6
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=37.77778}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=10.0, DHC_THRESHOLD=37.77778}
+Acurária do indivíduo: 99.99999930715312
+Tempo de processamento da rodada:     35(min) e 25 (s)
+Tempo de processamento da rodada: 2125(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 20 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.9999991563659
+Tempo de processamento da rodada:     33(min) e 48 (s)
+Tempo de processamento da rodada: 2028(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 21 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=60.0}
+Acurária do indivíduo: 99.99999920265161
+Tempo de processamento da rodada:     36(min) e 39 (s)
+Tempo de processamento da rodada: 2199(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 22 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 5
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=37.77778}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=37.77778}
+Acurária do indivíduo: 99.93120585961951
+Tempo de processamento da rodada:     36(min) e 23 (s)
+Tempo de processamento da rodada: 2183(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 23 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 99.99999999058879
+Tempo de processamento da rodada:     36(min) e  8 (s)
+Tempo de processamento da rodada: 2168(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 24 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 4
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=43.333332}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=16.666666, DHC_THRESHOLD=43.333332}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     39(min) e  0 (s)
+Tempo de processamento da rodada: 2340(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 25 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=54.444443}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=13.333333, DHC_THRESHOLD=54.444443}
+Acurária do indivíduo: 99.99999999765177
+Tempo de processamento da rodada:     33(min) e 16 (s)
+Tempo de processamento da rodada: 1996(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 26 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 7
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=15.0, DHC_THRESHOLD=37.77778}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=15.0, DHC_THRESHOLD=37.77778}
+Acurária do indivíduo: 99.99999949737798
+Tempo de processamento da rodada:     39(min) e 52 (s)
+Tempo de processamento da rodada: 2392(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 27 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=11.666666, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=11.666666, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     34(min) e  4 (s)
+Tempo de processamento da rodada: 2044(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 28 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=5.666667, DHC_MINPTS=16.666666, DHC_THRESHOLD=48.888885}
+DensityTree - {DHC_SIGMA=5.666667, DHC_MINPTS=16.666666, DHC_THRESHOLD=48.888885}
+Acurária do indivíduo: 100.0
+Tempo de processamento da rodada:     37(min) e  5 (s)
+Tempo de processamento da rodada: 2225(s)
+
+Algoritmo: EDA FULL 
+Lendo 'bupa.data' e executando a particao 29 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 7
+Reading Instances - {}
+AttractionTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=37.77778}
+DensityTree - {DHC_SIGMA=4.111111, DHC_MINPTS=20.0, DHC_THRESHOLD=37.77778}
+Acurária do indivíduo: 99.99999942769236
+Tempo de processamento da rodada:     39(min) e 33 (s)
+Tempo de processamento da rodada: 2373(s)
+
+
+Tempo total de processamento:   1063(min) e 13
+Tempo total de processamento: 63793(s)

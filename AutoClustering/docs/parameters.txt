@@ -1,0 +1,41 @@
+Todos
+		ALL_DISTANCE (Distancia)
+		ALL_INSTANCES (Instances do weka)
+		ALL_GROUPS ( Lista de clusters - resultado )
+		ALL_LOWER_BOUNDS ( limites superiores das dimensões ) 
+		ALL_UPPER_BOUNDS ( limites inferiores das dimensões )
+AMR
+		AMR_DENSITY ( min = 1, max = 2f )
+		AMR_LAMBDA ( min = 1, max = 3 )
+		AMR_SLICES ( min = 25, max = 30 )
+		AMR_TREE ( resultado do nó AMRTree )
+
+Clique
+		CLIQUE_SLICES, ( min = 0.0000001f, max = 0.2f )
+		CLIQUE_SUBSPACES_BEGIN,
+		CLIQUE_THRESHOLD, ( min = 10, max = 30 )
+		
+DBClasd
+		DBCLASD_PTS, ( min=1, max=10 )
+		DBCLASD_GROUPS_FIRST,
+
+DBScan
+		DBSCAN_NUM_PTS, ( min = 2, max = 5 )
+		DBSCAN_MAX_DIST, ( min = 1, max = 8 )
+		DBSCAN_GROUPS_FIRST, 
+
+Descry
+		DESCRY_DENSITY, ( min = 1, max = 10 )
+		DESCRY_K, ( min = 2, max = 10 )
+		DESCRY_TREE, ( resultado do AdaptableKDTree )
+
+DHC
+		DHC_ATTRACTION_TREE, 
+		DHC_LIST_INSTANCE,
+		DHC_MINPTS, ( min = 1f, max = 10 )
+		DHC_SIGMA, ( min = 1f, max = 5 )
+		DHC_THRESHOLD, ( min = 1f, max = 6 )
+Denclue
+		DENCLUE_EPSILON, ( min = 0f, max = 5 )
+		DENCLUE_HYPER_SPACE,  
+		DENCLUE_SIGMA, ( min = 1f, max = 10 )

@@ -1,0 +1,9 @@
+Algoritmo: EDA FULL 
+Lendo 'sinteticDataXY.arff' e executando a particao 0 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=1.2222222, DPCI_DC_PERCENT=22.777779}
+ClusterByDensityPeak - {DISTANCE_INFO=1.2222222, DPCI_DC_PERCENT=22.777779}
+Acurária do indivíduo: 0.0
+

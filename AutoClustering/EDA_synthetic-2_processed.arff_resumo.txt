@@ -1,0 +1,341 @@
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 0 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=13.666667}
+ClustersByDistribution - {DBCLASD_PTS=13.666667}
+Acurária do indivíduo: 97.11324865405187
+Tempo de processamento da rodada:    267(min) e 58 (s)
+Tempo de processamento da rodada: 16078(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 1 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=9.444445}
+ClustersByDistribution - {DBCLASD_PTS=9.444445}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    270(min) e  1 (s)
+Tempo de processamento da rodada: 16201(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 2 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=17.88889}
+ClustersByDistribution - {DBCLASD_PTS=17.88889}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    263(min) e 10 (s)
+Tempo de processamento da rodada: 15790(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 3 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=1.4444444, DPCI_DC_PERCENT=99.0}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    262(min) e 30 (s)
+Tempo de processamento da rodada: 15750(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 4 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=2.5555556, DPCI_DC_PERCENT=44.555557}
+CandidatesByNpts - {DBCLASD_PTS=17.88889}
+ClustersByDistribution - {DBCLASD_PTS=17.88889}
+Acurária do indivíduo: 97.64101075189464
+Tempo de processamento da rodada:    262(min) e 34 (s)
+Tempo de processamento da rodada: 15754(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 5 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    263(min) e 34 (s)
+Tempo de processamento da rodada: 15814(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 6 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=2.3333335, DPCI_DC_PERCENT=99.0}
+CandidatesByNpts - {DBCLASD_PTS=11.555555}
+ClustersByDistribution - {DBCLASD_PTS=11.555555}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    262(min) e 18 (s)
+Tempo de processamento da rodada: 15738(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 7 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=3.0, DPCI_DC_PERCENT=11.888889}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    259(min) e  1 (s)
+Tempo de processamento da rodada: 15541(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 8 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=2.3333335, DPCI_DC_PERCENT=22.777779}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    260(min) e 40 (s)
+Tempo de processamento da rodada: 15640(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 9 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    260(min) e 30 (s)
+Tempo de processamento da rodada: 15630(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 10 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=17.88889}
+ClustersByDistribution - {DBCLASD_PTS=17.88889}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    266(min) e 22 (s)
+Tempo de processamento da rodada: 15982(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 11 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=17.88889}
+ClustersByDistribution - {DBCLASD_PTS=17.88889}
+Acurária do indivíduo: 97.11324865405187
+Tempo de processamento da rodada:    264(min) e 42 (s)
+Tempo de processamento da rodada: 15882(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 12 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    268(min) e 46 (s)
+Tempo de processamento da rodada: 16126(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 13 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    262(min) e  1 (s)
+Tempo de processamento da rodada: 15721(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 14 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=3.0, DPCI_DC_PERCENT=55.444447}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    263(min) e 37 (s)
+Tempo de processamento da rodada: 15817(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 15 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=13.666667}
+ClustersByDistribution - {DBCLASD_PTS=13.666667}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    270(min) e  0 (s)
+Tempo de processamento da rodada: 16200(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 16 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=3.0, DPCI_DC_PERCENT=66.333336}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    259(min) e 23 (s)
+Tempo de processamento da rodada: 15563(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 17 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=2.5555556, DPCI_DC_PERCENT=99.0}
+CandidatesByNpts - {DBCLASD_PTS=13.666667}
+ClustersByDistribution - {DBCLASD_PTS=13.666667}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    260(min) e 25 (s)
+Tempo de processamento da rodada: 15625(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 18 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=17.88889}
+ClustersByDistribution - {DBCLASD_PTS=17.88889}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    267(min) e  5 (s)
+Tempo de processamento da rodada: 16025(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 19 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    260(min) e  9 (s)
+Tempo de processamento da rodada: 15609(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 20 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=1.6666667, DPCI_DC_PERCENT=22.777779}
+CandidatesByNpts - {DBCLASD_PTS=5.2222223}
+ClustersByDistribution - {DBCLASD_PTS=5.2222223}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    263(min) e 24 (s)
+Tempo de processamento da rodada: 15804(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 21 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=9.444445}
+ClustersByDistribution - {DBCLASD_PTS=9.444445}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    265(min) e 22 (s)
+Tempo de processamento da rodada: 15922(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 22 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=9.444445}
+ClustersByDistribution - {DBCLASD_PTS=9.444445}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    263(min) e 24 (s)
+Tempo de processamento da rodada: 15804(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 23 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    264(min) e 21 (s)
+Tempo de processamento da rodada: 15861(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 24 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=13.666667}
+ClustersByDistribution - {DBCLASD_PTS=13.666667}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    263(min) e 47 (s)
+Tempo de processamento da rodada: 15827(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 25 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 2
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=15.777779}
+ClustersByDistribution - {DBCLASD_PTS=15.777779}
+Acurária do indivíduo: 97.11191250431777
+Tempo de processamento da rodada:    267(min) e 36 (s)
+Tempo de processamento da rodada: 16056(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 26 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    271(min) e 55 (s)
+Tempo de processamento da rodada: 16315(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 27 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    276(min) e 42 (s)
+Tempo de processamento da rodada: 16602(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 28 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=2.5555556, DPCI_DC_PERCENT=66.333336}
+CandidatesByNpts - {DBCLASD_PTS=20.0}
+ClustersByDistribution - {DBCLASD_PTS=20.0}
+Acurária do indivíduo: 97.64188643435534
+Tempo de processamento da rodada:    266(min) e  6 (s)
+Tempo de processamento da rodada: 15966(s)
+
+Algoritmo: EDA FULL 
+Lendo 'synthetic-2_processed.arff' e executando a particao 29 na maquina PPGCC-PC01.
+Configuração do melhor indivíduo:
+Número de grupos identificados: 3
+Reading Instances - {}
+DistanceInformation - {DISTANCE_INFO=1.2222222, DPCI_DC_PERCENT=55.444447}
+CandidatesByNpts - {DBCLASD_PTS=11.555555}
+ClustersByDistribution - {DBCLASD_PTS=11.555555}
+Acurária do indivíduo: 97.64101075189464
+Tempo de processamento da rodada:    270(min) e  5 (s)
+Tempo de processamento da rodada: 16205(s)
+
